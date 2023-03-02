@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I'm a senior electrical engineering student, working on sensor networks for calculation of triphasic induction motors.If you, who are reading these now, have any documentation about this area, it'd be much appreciated!
 <!--
 **JSM1997/JSM1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
